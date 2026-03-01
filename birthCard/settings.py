@@ -25,7 +25,7 @@ SECRET_KEY = 'django-insecure-b5y7g8yxo6j5_!zbhg(3xs47!&lrstvyw2=muhcp32v*u9a5*c
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['https://rakesh-racky.github.io/birthdayCards/','127.0.0.1']
 
 
 # Application definition
